@@ -1,2 +1,2 @@
-# hackerrank-30-days-of-code
-Stores my answers for Hackerrank's 30 days of code. Mainly in Go.
+# Hackerrank's 30 Days of Code
+Stores my answers for [Hackerrank's 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code). Mainly in Go.
